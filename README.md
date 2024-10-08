@@ -12,6 +12,6 @@ configuracion basica para trabajar con el framework de Django
 - 9 Actualizar pip --> python -m pip install --upgrade pip
 - 10 Instalar Django --> python -m pip install django
 - 11 Creando el proyecto --> django-admin startproject webSpeedcubeshop_proy
-- 12 Realizar migracion al proyecto python manage.py migrate
+- 12 Realizar migracion al proyecto --> python manage.py migrate
 - 13 Ejecutar servidor --> python manage.py runserver
 - Me trabajo el proyecto
